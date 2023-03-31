@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="dcde306a-d5ff-47a6-bdaa-92619ccf4b98" name="ROSIESTORE" url="http://localhost:8008/ROSIESTORE">
+        <fileTransfer mountedRoot="C:\xampp\htdocs\ROSIESTORE" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
